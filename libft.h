@@ -18,6 +18,7 @@
 # include <stdlib.h>
 # include <stdio.h>
 # include <limits.h>
+# include <stdint.h>
 
 /*--------- returns 1 ---------*/
 int		ft_isalpha(int c);
