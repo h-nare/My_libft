@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_fd.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: narhakob <narhakob@student.42.fr>          +#+  +:+       +#+        */
+/*   By: narehakobyan <narehakobyan@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/01 16:41:25 by narhakob          #+#    #+#             */
-/*   Updated: 2026/02/01 16:46:56 by narhakob         ###   ########.fr       */
+/*   Updated: 2026/02/12 23:42:07 by narehakobya      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

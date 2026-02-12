@@ -6,7 +6,7 @@
 /*   By: narehakobyan <narehakobyan@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/01 16:00:59 by narhakob          #+#    #+#             */
-/*   Updated: 2026/02/10 21:15:16 by narehakobya      ###   ########.fr       */
+/*   Updated: 2026/02/12 23:44:11 by narehakobya      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -163,7 +163,7 @@ char	**ft_split(char const *s, char c)
 
 	if (!s)
 	{
-		strs = malloc(sizeof(char) * 1);
+		strs = malloc(sizeof(char *));
 		if (!strs)
 			return (NULL);
 		*strs = NULL;
